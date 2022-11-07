@@ -8,6 +8,8 @@
     <img src="images/demo.png">
 </p>
 
+### Uses [reynirf/qrcodejs](https://github.com/reynirf/qrcodejs)
+
 ### Usage
 
 1. Open [site](https://hughchen.github.io/qr_image/).
