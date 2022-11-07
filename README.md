@@ -8,11 +8,10 @@
     <img src="images/demo.png">
 </p>
 
-### Uses [reynirf/qrcodejs](https://github.com/reynirf/qrcodejs)
 
 ### Usage
 
-1. Open [site](https://hughchen.github.io/qr_image/).
+1. Open index.html
 2. Upload an image.
 3. Enter the URL.
 4. Adjust parameters.
@@ -20,7 +19,7 @@
 
 ## Dependency
 
-* [davidshimjs / qrcode](https://github.com/davidshimjs/qrcodejs)
+* A [fork](https://github.com/reynirf/qrcodejs) of [davidshimjs / qrcode](https://github.com/davidshimjs/qrcodejs)
 
 ## License
 
